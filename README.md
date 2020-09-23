@@ -10,6 +10,7 @@ VERSION or DATE:  1.0
 
 HOW TO START THIS PROJECT:    You need java runtime environment jre7 or more.
 			Double click the sudoku9_1.2.jar file.
+			A graphical window opens.
 			Enter the sudoku puzzle, enter 0 in place of blank.
 			Enter click here and you will get the solved puzzle.
 			
