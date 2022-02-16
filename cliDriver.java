@@ -1,5 +1,5 @@
 import java.io.*;
-public class clidriver {
+public class cliDriver {
     public static void main(String[] args) {
         sudoku9 ob = new sudoku9();
         System.out.println("[+] Welcome to cli sudoku 9x9\n[+] Input:");
