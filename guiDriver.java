@@ -64,6 +64,7 @@ class guiDriver {
           guiDriver.ob.PrepareArray(guiDriver.C);
           guiDriver.ob.main1(guiDriver.C);
         } while (!guiDriver.ob.checkComplete(guiDriver.C)); 
+      //printing
       for (i = 0; i < 9; i++) {
         for (int j = 0; j < 9; j++)
           guiDriver.input[i][j].setText("" + guiDriver.C[i][j][0]); 

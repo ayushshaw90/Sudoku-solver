@@ -1,4 +1,5 @@
 class sudoku9 {
+    //Assigning remaining values of array with 0
     void PrepareArray(int[][][] X) {
       int[][][] x = X;
       for (int i = 0; i < 9; i++) {
