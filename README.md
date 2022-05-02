@@ -9,26 +9,32 @@ PURPOSE OF PROJECT:   To use computer's fast processing speed to solve sudoku pu
 VERSION or DATE:  1.0
 
 HOW TO START THIS PROJECT:    This project can be used in gui mode or cli mode
-
+<hr>
 For GUI mode: compile the sudoku9.java and guiDriver.java files using the command:
-javac sudoku9.java
-javac guiDriver.java
+<h2>
+javac sudoku9.java</h2>
+<h2>
+javac guiDriver.java</h2>
 
 Execute the program using:
-java guiDriver
+<h2>
+java guiDriver</h2>
 
-
+<hr>
 for CLI mode: compile sudoku9.java and cliDriver.java files using the command:
-javac sudoku9.java
-javac cuiDriver.java
+<h2>javac sudoku9.java</h2>
+<h2>javac cuiDriver.java</h2>
 
 Execute the program using:
-java cliDriver
-
+<h2>
+java cliDriver</h2>
+<hr>
 Sample Use:
 java clidriver 
-[+] Welcome to cli sudoku 9x9
-[+] Input:
+<p>
+[+] Welcome to cli sudoku 9x9</p>
+<p>
+[+] Input:</p>
 <div>
 530070000
 </div><div>
