@@ -8,6 +8,10 @@ PURPOSE OF PROJECT:   To use computer's fast processing speed to solve sudoku pu
 
 VERSION or DATE:  1.0
 
+
+## 👩🏼‍💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=61DAFB)
+
 ## HOW TO START THIS PROJECT:
 This project can be used in gui mode or cli mode.
 
